@@ -1,2 +1,1 @@
-# helloworld
-helloworld
+Send a picture of your whole patrol with a friendly petrol station employee, email the pic to: `matthew+petrol@firstpinelands.org`
